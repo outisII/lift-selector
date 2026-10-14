@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Component Selector",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CS-R&amp;I",
+  "start_url": "/",
+  "theme_color": "#0a2a8a",
+  "description": "Component Selector V2.2"
+}
