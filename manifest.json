@@ -5,8 +5,20 @@
   "name": "Component Selector",
   "orientation": "any",
   "scope": "./",
-  "short_name": "CS-R&I",
+  "short_name": "Lift Selector",
   "start_url": "./index.html",
   "theme_color": "#0a2a8a",
-  "description": "Component Selector V2.2"
+  "description": "Component Selector V2.2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
